@@ -1,1 +1,1 @@
-web: gunicorn radioproject.wsgi
+web: gunicorn radioapi.wsgi
